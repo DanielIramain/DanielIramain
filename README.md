@@ -1,8 +1,5 @@
 <h1 align='center'>
     Hello stranger. Welcome to my workspace, be my guest...
-    <p align='center'>
-        I'm a <u>Trainee developer</u>
-</p>
 
 <p align='center'>
   <img src="undraw_programming_re_kg9v.svg" width="40%">
