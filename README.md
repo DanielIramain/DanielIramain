@@ -1,10 +1,10 @@
 <h1 align='center'>
     Hello stranger. Welcome to my workspace, be my guest...
+</h1>    
 
 <p align='center'>
   <img src="undraw_programming_re_kg9v.svg" width="40%">
 </p>
-</h1>
 
 <p align='center'>
 <a href='https://emojitool.com/black-telephone'>☎️</a> <u>Where can you find me</u>:
