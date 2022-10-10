@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-<a href='https://emojitool.com/black-telephone'>☎️</a> <u>Where can you find me</u>:
+☎️ <u>Where can you find me</u>:
 </p>
 
 <p align='center'>
