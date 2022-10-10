@@ -11,8 +11,8 @@
 </p>
 
 <p align='center'>
-<a href="https://ar.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' width='9%'>
+<a href="https://ar.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.com/" target="_blank"><img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'></a>
 </p>
 
 <p align='center'>*My linkedin account is currently suspended due to inactivity by my part. You can also contact me via Discord as Daniel Iramain#9560 </p>
