@@ -11,11 +11,11 @@
 </p>
 
 <p align='center'>
-<a href="https://www.instagram.com/danieliramain97/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://ar.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' width='9%'>
 </p>
 
-<p align='center'>*My linkedin and Instagram account are currently suspended due to inactivity by my part. You can also contact me via <img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' width='9%'> as Daniel Iramain#9560 </p>
+<p align='center'>*My linkedin account is currently suspended due to inactivity by my part. You can also contact me via Discord as Daniel Iramain#9560 </p>
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=true&theme=dark" width="450"></a>
