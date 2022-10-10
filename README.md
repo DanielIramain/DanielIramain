@@ -15,7 +15,7 @@
 <a href="https://discord.com/" target="_blank"><img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white'></a>
 </p>
 
-<p align='center'>*My linkedin account is currently suspended due to inactivity by my part. You can also contact me via Discord as Daniel Iramain#9560 </p>
+<p align='center'>*My linkedin account is <b>currently suspended</b> due to inactivity by my part. You can also contact me via Discord as Daniel Iramain#9560 </p>
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=true&theme=dark" width="450"></a>
