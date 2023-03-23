@@ -17,11 +17,13 @@
 
 <p align='center'>*My linkedin account is <b>currently suspended</b> due to inactivity by my part. You can also contact me via Discord as Daniel Iramain#9560 </p>
 
+<!-- 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielIramain&layout=compact&theme=tokyonight" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielIramain&layout=compact&theme=tokyonight"></a>
 </div>
+-->
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=true&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=false&theme=dark" width="450"></a>
 </div>
 
 <p align='center'>
