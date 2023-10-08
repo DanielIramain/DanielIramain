@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hello world! Welcome to my workspace...
+    Hello world! Welcome to my workspace
 </h1>    
 
 <p align='center'>
@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-☎️ <u>Where can you find me</u>:
+☎️ <u>Find me</u>:
 </p>
 
 <p align='center'>
