@@ -1,9 +1,9 @@
-<h1 align='center'>
-    Hello world! Welcome to my workspace
-</h1>    
+<h1>
+    Hello world! Welcome to my profile
+</h1>
 
 <p align='center'>
-  <img src="undraw_programming_re_kg9v.svg" width="40%">
+  <img src="github-banner.png" width="100%">
 </p>
 
 <p align='center'>
