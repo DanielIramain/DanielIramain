@@ -3,10 +3,6 @@
 </h1>
 
 <p align='center'>
-  <img src="github-banner.png" width="100%">
-</p>
-
-<p align='center'>
 ☎️ <u>Find me</u>:
 </p>
 
