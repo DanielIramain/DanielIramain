@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielIramain&layout=compact&theme=tokyonight"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=false&theme=dark" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielIramain&layout=compact&theme=radical" width="350px"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DanielIramain&show_icons=true&count_private=false&theme=radical" width="460px"></a>
 </div>
 
 ## Languages
